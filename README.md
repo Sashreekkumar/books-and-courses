@@ -2,6 +2,11 @@
 A personal knowledge repo with notes from books and courses I work through. The notes focus on ideas I found interesting, missing explanations, useful extensions, and my own summaries rather than full coverage, so they are not exhaustive. It includes my solutions to book exercises and course assignments where applicable, a curated section of blog posts I found especially helpful, and notes I made while reading research papers.
 
 ## Books
+1. **[Natural Language Processing with Transformers – Building AI Applications with Hugging Face by Lewis Tunstall, Leandro von Werra, and Thomas Wolf](natural_language_processing_with_transformers/transformers.md)**
+
+
+    Checkout my Jupyter Notebooks and short notes (non-exhaustive from the book)
+
 
 ## Courses
 
